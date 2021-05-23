@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "QFox",
+    "description": "",
+    "home_page_url": "https://wikimana.github.io/qfox",
+    "feed_url": "https://wikimana.github.io/qfox/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Clara Fox"
+    },
+    "items": [
+        {
+            "id": "https://wikimana.github.io/qfox/first-blog.html",
+            "url": "https://wikimana.github.io/qfox/first-blog.html",
+            "title": "First Blog",
+            "summary": "This is my first blog. What else can I say. This is bold text. Well. A really easy editor. This is a link.",
+            "content_html": "<p>This is my first blog. What else can I say. This is <strong>bold</strong> text.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://wikimana.github.io/qfox/media/posts/1/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://wikimana.github.io/qfox/media/posts/1/responsive/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1-xs.jpg 300w ,https://wikimana.github.io/qfox/media/posts/1/responsive/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1-sm.jpg 480w ,https://wikimana.github.io/qfox/media/posts/1/responsive/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1-md.jpg 768w ,https://wikimana.github.io/qfox/media/posts/1/responsive/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1-lg.jpg 1024w ,https://wikimana.github.io/qfox/media/posts/1/responsive/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1-xl.jpg 1360w ,https://wikimana.github.io/qfox/media/posts/1/responsive/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1-2xl.jpg 1600w\"  alt=\"Flying Upload\" width=\"940\" height=\"788\"></figure>\n<p>Well. A really easy editor. This is a <a href=\"https://getpublii.com/docs/host-static-website-github-pages.html\" title=\"linky\" rel=\"nofollow\">link</a>.</p>",
+            "author": {
+                "name": "Clara Fox"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-23T16:15:45+02:00",
+            "date_modified": "2021-05-23T16:15:45+02:00"
+        }
+    ]
+}

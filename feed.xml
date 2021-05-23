@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>QFox</title>
+    <link href="https://wikimana.github.io/qfox/feed.xml" rel="self" />
+    <link href="https://wikimana.github.io/qfox" />
+    <updated>2021-05-23T16:15:45+02:00</updated>
+    <author>
+        <name>Clara Fox</name>
+    </author>
+    <id>https://wikimana.github.io/qfox</id>
+
+    <entry>
+        <title>First Blog</title>
+        <author>
+            <name>Clara Fox</name>
+        </author>
+        <link href="https://wikimana.github.io/qfox/first-blog.html"/>
+        <id>https://wikimana.github.io/qfox/first-blog.html</id>
+
+        <updated>2021-05-23T16:15:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                    This is my first blog. What else can I say. This is bold text. Well. A really easy editor. This is a link.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is my first blog. What else can I say. This is <strong>bold</strong> text.</p>
+<figure class="post__image"><img loading="lazy"  src="https://wikimana.github.io/qfox/media/posts/1/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://wikimana.github.io/qfox/media/posts/1/responsive/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1-xs.jpg 300w ,https://wikimana.github.io/qfox/media/posts/1/responsive/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1-sm.jpg 480w ,https://wikimana.github.io/qfox/media/posts/1/responsive/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1-md.jpg 768w ,https://wikimana.github.io/qfox/media/posts/1/responsive/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1-lg.jpg 1024w ,https://wikimana.github.io/qfox/media/posts/1/responsive/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1-xl.jpg 1360w ,https://wikimana.github.io/qfox/media/posts/1/responsive/flying-upload-stop-wasting-time-uploading-t-shirt-designs-1-2xl.jpg 1600w"  alt="Flying Upload" width="940" height="788"></figure>
+<p>Well. A really easy editor. This is a <a href="https://getpublii.com/docs/host-static-website-github-pages.html" title="linky" rel="nofollow">link</a>.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
